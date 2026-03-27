@@ -1,8 +1,8 @@
 {
-  "prompt": "A sprawling harbor landscape at sunset in the manner of Georges Seurat's 'A Sunday Afternoon on the Island of La Grande Jatte' and Paul Signac's 'The Port of Saint-Tropez.' The scene depicts a vast ensemble of small, stiff sailboats scattered across a shimmering bay. Physical Medium: Oil on canvas with a visible linen weave. Grammar Rules: The image is constructed entirely from millions of tiny, non-overlapping, distinct dots of pure, unmixed pigments—specifically Cobalt Blue, Cadmium Yellow, Alizarin Crimson, and Viridian Green. No lines or brushstrokes are present; edges and forms are defined solely by changes in dot density and color contrast. Depth is achieved through linear perspective and the mathematical placement of figures, maintaining high-resolution detail from the foreground to the distant horizon. Exclusions: No smooth gradients, no black outlines, no blended paint, no photographic shading, and no blurred 'atmospheric' depth.",
+  "prompt": "Japanese ukiyo-e woodblock print, Edo period (1800s), depicting a lone traveler descending a winding mountain path toward a misty valley below, viewed from a high diagonal vantage point in the style of Hokusai's landscape series. Flat areas of unmodulated color with no shading or gradients. Bold black outlines of even weight. Muted indigo, ochre, and pale grey palette with cream paper ground. Diagonal composition with the path leading the eye from upper-right to lower-left valley. Visible woodblock texture in the sky. No photographic depth or shadows. No text, no labels, no Western perspective techniques.",
   "model": "Banana (Gemini Imagen)",
-  "concept": "Ensemble Methods",
-  "tradition_name": "Pointillism",
-  "tradition_period": "1886–1910",
-  "tradition_approach": "Optical Mixing of Discrete Data Points: Utilizing a systematic, grid-based application of pure color dots that the viewer's eye aggregates into a unified whole, mirroring how an ensemble model averages 'weak' base learners into a single 'strong' prediction."
+  "concept": "gradient descent",
+  "tradition_name": "Japanese ukiyo-e woodblock print",
+  "tradition_period": "Edo period, 1600–1868",
+  "tradition_approach": "Targeted Hokusai's diagonal landscape composition, flat unmodulated color fields, bold even-weight black outlines, and the muted indigo-ochre-cream palette of his Thirty-six Views series"
 }
